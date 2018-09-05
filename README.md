@@ -1,3 +1,3 @@
-# Data Science/Machine Learning Exercises
+# Data Analysis Exercises
 
 Coursework from Jose Portilla course on Udemy.
